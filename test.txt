@@ -1,0 +1,3 @@
+nama : sarnafi
+umur : 20
+pekerjaan : CEO Tahungoding Corp
